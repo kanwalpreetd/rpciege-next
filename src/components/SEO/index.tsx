@@ -56,8 +56,8 @@ export const SEO = ({
 
       <meta key="og:type" property="og:type" content="website" />
       <meta key="twitter:card" name="twitter:card" content="summary_large_image" />
-      <meta key="twitter:site" name="twitter:site" content="@sorobanofficial" />
-      <meta key="twitter:creator" name="twitter:creator" content="@sorobanofficial" />
+      <meta key="twitter:site" name="twitter:site" content="@BuildOnStellar" />
+      <meta key="twitter:creator" name="twitter:creator" content="@BuildOnStellar" />
     </Head>
   );
 };
